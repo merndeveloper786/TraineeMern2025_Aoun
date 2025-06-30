@@ -88,3 +88,6 @@ console.log(a.includes(3)); // Checks if the array includes the number 3
 
 //indexOf method
 console.log(a.indexOf(4)); // Returns the index of the first occurrence of 4
+
+//from method
+array.from("Harry"): //output will be [H, a, r, r, y]
